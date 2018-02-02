@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "734202990727",
+    "firebase_url": "https://signupwithfacebook-f6ded.firebaseio.com",
+    "project_id": "signupwithfacebook-f6ded",
+    "storage_bucket": "signupwithfacebook-f6ded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734202990727:android:8cbd3d8f65f487d6",
+        "android_client_info": {
+          "package_name": "com.geniteam.signupwithfacebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734202990727-m4rqnnckfgrjhrfaohca949vndbd9bgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniteam.signupwithfacebook",
+            "certificate_hash": "4760252fabb1d5e87e2dcced6f6ae765807064a0"
+          }
+        },
+        {
+          "client_id": "734202990727-rftk5tur5hk0vs12193pv8i523v0uu43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWvAIwDeLYVg32s8mYrv9vJKjegXRbpWI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734202990727-rftk5tur5hk0vs12193pv8i523v0uu43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
